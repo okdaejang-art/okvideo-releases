@@ -4,7 +4,7 @@ ASRock DeskMini X600 / AMD Ryzen 5 8600G용 미디어 플레이어 OS 배포 저
 
 ## 다운로드
 
-[현재 배포본: 0.4.0-preview.2](https://github.com/okdaejang-art/okvideo-releases/releases/tag/v0.4.0-preview.2)
+[현재 배포본: 0.4.0-preview.3](https://github.com/okdaejang-art/okvideo-releases/releases/tag/v0.4.0-preview.3)
 
 [Releases](https://github.com/okdaejang-art/okvideo-releases/releases)에서 버전별 설치 이미지, 업데이트 파일, 소스 코드와 검증 문서를 제공합니다. Preview는 시험 배포 버전입니다.
 
@@ -15,6 +15,8 @@ ASRock DeskMini X600 / AMD Ryzen 5 8600G용 미디어 플레이어 OS 배포 저
 0.4.0-preview.2부터 새 버전이 있으면 홈 오른쪽 위에 **업데이트 있음 · 설치**가 표시됩니다. 부팅 후 유휴 상태에서 확인하고 이후 6시간마다 확인합니다. 재생 중에는 확인을 미루며, 설치 파일은 사용자가 버튼을 선택할 때 다운로드합니다.
 
 자동 업데이트 안내는 `updates-preview` 릴리스의 서명된 `latest.json`으로 제공합니다. 버전별 설치 파일은 별도의 `v…` 릴리스에 보관합니다. 옥자막 프로젝트와는 독립적으로 버전과 업데이트를 관리합니다.
+
+0.4.0-preview.3에는 OpenSubtitles 로그인·남은 다운로드 확인, 일일 한도와 일시 제한 구분, 연결해 둔 다른 자막 서비스로 전환, 저장 자막 재사용을 추가했습니다. OpenSubtitles.com 사용자 이름과 비밀번호는 각 사용자가 기기에 입력하며, 서비스 자체 이용 한도는 그대로 적용됩니다.
 
 ## 범위와 개인정보
 
